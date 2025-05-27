@@ -335,6 +335,52 @@ The `find` command is used to search for files in a directory hierarchy.
 find <directory> -name <file_name>
 ```
 
-**Output:**
+## Output:
+
+![image](https://github.com/user-attachments/assets/7cf6d6f6-ed87-4f6d-aab2-d644c959ced9)
+
+![image](https://github.com/user-attachments/assets/1d96e105-615a-41ac-b728-9bb57a7ae074)
+
+![image](https://github.com/user-attachments/assets/9a044321-5b29-4b71-969c-94af48fb15b0)
+
+![image](https://github.com/user-attachments/assets/a7ee73e4-7db4-49f9-a1e3-22802ce5e20a)
+
+![image](https://github.com/user-attachments/assets/bdd8061b-bfc2-4ed2-a144-19c33fbe0ff8)
+
+![image](https://github.com/user-attachments/assets/36ecea27-6fcb-4a9a-8182-30eabeca5ec0)
+
+![image](https://github.com/user-attachments/assets/d2c3a91d-8a9e-46a0-9804-1256bc4c5b9c)
+
+![image](https://github.com/user-attachments/assets/0a6c1b8d-47d8-4da7-9a33-cc3640d73bbb)
+
+![image](https://github.com/user-attachments/assets/3af7c68c-ca3d-4632-a510-ca9b2c4b2e8a)
+
+![image](https://github.com/user-attachments/assets/06b97267-0427-45f3-b57e-ad9279173cad)
+
+![image](https://github.com/user-attachments/assets/7568b66a-9a70-4d8a-8907-af9e47899b8d)
+
+![image](https://github.com/user-attachments/assets/16179835-b42c-4fa5-b8e1-60600ad87482)
+
+![image](https://github.com/user-attachments/assets/58a0b29a-5387-4fe5-8913-b3c78e5edc85)
+
+![image](https://github.com/user-attachments/assets/d9f723a2-fe12-429b-88f0-d41e926142dd)
+
+![image](https://github.com/user-attachments/assets/32487a82-8f51-45a4-81ab-bdfb44596af3)
+
+![image](https://github.com/user-attachments/assets/56556de2-a9e2-46fd-a869-8f55afebb209)
+
+![image](https://github.com/user-attachments/assets/9edf0f29-3f4a-4b5d-b326-a1444c7db7ae)
+
+![image](https://github.com/user-attachments/assets/3787d0d8-f21c-4844-bf81-d9d15f4e828b)
+
+![image](https://github.com/user-attachments/assets/ce1dd759-8985-49a9-9069-e1d6411f6a94)
+
+![image](https://github.com/user-attachments/assets/dfac45b1-cb02-41b0-9391-ccb315c5b092)
+
+![image](https://github.com/user-attachments/assets/660fe7b3-4735-415e-bae1-3389ee1ac352)
+
+![image](https://github.com/user-attachments/assets/8c7fec0d-4f09-41b5-bb26-59deb4741da3)
 
 ## Result
+
+Thus linux commands and performed and the output is verified.
